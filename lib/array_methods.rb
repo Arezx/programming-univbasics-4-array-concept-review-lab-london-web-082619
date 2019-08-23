@@ -1,8 +1,3 @@
-'bundler'
-  # Add your solution here	'pry'
-end	
-
-
  def find_max_value(array)	describe 'finding data'
   # Add your solution here	
 end	
